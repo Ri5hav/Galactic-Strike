@@ -21,4 +21,5 @@ Built with:
 - Unity Engine
 - C# Programming Language
 
-Developed by: Rishav Kumar
+Developed by: Rishav Kumar, Rohit Chanchar, Devyansh Sharma
+
